@@ -8,19 +8,21 @@
       "images": ["easybuy1.png", "easybuy2.png", "easybuy3.png"],
       "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"]
     },
-    "productcart": {
-      "name": "Product list demo",
-      "description": "A simple shopping cart. It can be used in many different ways. There is a nice hover effect with the products.",
-      "link_to_view": "https://mahadirazib.github.io/ShoppingCartDemo",
-      "link_to_repo": "https://github.com/mahadirazib/ShoppingCartDemo",
-      "images": ["productcart1.jpg", "productcart2.jpg"]
+    "ptaji": {
+      "name": "Company Profile Website PT. Aneka Jaringan Indonesia",
+      "description": "PT. Aneka Jaringan Indonesia (AJI) was founded by experienced Indonesian and Malaysian civil engineers and foundation construction practitioners, in affiliation with Aneka Jaringan Sdn Bhd, a well-known foundation constructor in Malaysian Peninsula. Officially incorporated in March 2014, AJI is a contractor specializing in deep foundation whose major expertise are in bored pile and diaphragm wall. As of today, merely after nine years since it started its operation in the early of year 2015, AJI has successfully completed more than one hundred-twenty (120) contracts of foundation construction for various building and infrastructure projects through which it has built its reputation for good workmanship, safety, quality, and timely delivery.",
+      "link_to_view": "https://ptaji.co.id",
+      "link_to_repo": null,
+      "images": ["ptaji1.png", "ptaji2.png", "ptaji3.png"],
+      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"]
     },
-    "similarwordfinder": {
-      "name": "Similar word finder",
+    "catatanbelanja": {
+      "name": "Catatan Belanja",
       "description": "This is a replica of erp that can be used in startup companies. Although it has limited features but it can be used for little teams. The main id and password is: 'bigboss' which is the admin/head account. But there are other roles such as employee, modarator, etc.",
-      "link_to_view": "https://mahadirazib.github.io/Similar-Word-finder",
-      "link_to_repo": "https://github.com/mahadirazib/Similar-Word-finder",
-      "images": ["similarwordfinder1.jpg", "similarwordfinder2.jpg"]
+      "link_to_view": "https://catatan-belanja-react.vercel.app",
+      "link_to_repo": "https://github.com/septianhadinugroho/catatan-belanja-react",
+      "images": ["catatanbelanja1.png", "catatanbelanja2.png"],
+      "technologies": ["HTML", "CSS", "JavaScript", "React", "Vite"]
     }
   },
   "Full Stack Dev": {

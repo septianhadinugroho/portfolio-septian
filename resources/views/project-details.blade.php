@@ -16,7 +16,7 @@
           </p>
 
           <h2 class="text-md mb-4">Technologies Used:</h2>
-          <div class="flex flex-wrap gap-2 mb-1">
+          <div class="flex flex-wrap gap-2 mb-2">
             @foreach ($project['technologies'] as $index => $tech)
               <img src="https://skillicons.dev/icons?i={{ strtolower($tech) }}" alt="{{ $tech }}" class="w-8 h-8 transform scale-0 opacity-0 animate-[fadeIn_0.5s_ease-out_{{ $index * 0.2 }}s_forwards]">
             @endforeach

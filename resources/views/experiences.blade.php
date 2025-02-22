@@ -6,7 +6,7 @@
     <div class="text-white" style="height: 100%">
       <div class="p-8 flex md:flex-col sm:flex-row flex-wrap " style="height: 100%">
 
-        <div class="mb-20">
+        <div class="mb-1">
           <h1 class="text-2xl font-bold text-white pb-3">Work Experiences:</h1>
           <div class=" text-sm font-light text-typewriter-effect" style="min-height: 100px">
             {{ $experience['description'] }}

@@ -1,22 +1,21 @@
 {
-    "description" : "I may not be an extra ordinary person but I have worked with many talented and extra ordinary developers and gained a portion of their knowledge. I may not have talent but I can work hard. I have completed my Bachelor's degree in Computer Science and Engineering with a great result.",
+    "description" : "I am an active student of Informatics Engineering Department with high dedication in self-development in technology. Various part-time experiences, internships, and lectures have helped me improve my soft skills, such as time management, teamwork, and resilience in the face of pressure. In addition, involvement in various organizations, both on and off campus, has shaped my leadership spirit. As an individual with good interpersonal skills, I am committed to continue learning and developing in order to become a valuable asset in both academic and professional environments.",
     
     "experiences": {
-        "SoftTech": {
-            "designation": "Jr. Software Developer",
-            "from": "Jul 2024",
-            "to": "Present"
+        "PT. Aneka Jaringan Indonesia": {
+            "designation": "Intern Front-End Web Developer",
+            "from": "January 2025",
+            "to": "February 2025"
         },
-        "Kulliyatul Quran": {
-            "designation": "Assistant ICT Teacher",
-            "from": "Jun 2023",
-            "to": "Jun 2024"
+        "PT. Granova Prima Lestari": {
+            "designation": "Part-Time Live Streamer",
+            "from": "October 2023",
+            "to": "December 2024"
         },
-        "Mini Institute": {
-            "designation": "Jr. Web Developer",
-            "from": "Jan 2020",
-            "to": "Jun 2023"
+        "PPTIK - ITB": {
+            "designation": "Peserta Prakerin",
+            "from": "November 2020",
+            "to": "February 2021"
         }
     }
-
 }

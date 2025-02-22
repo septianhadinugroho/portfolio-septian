@@ -1,30 +1,25 @@
 {
-  "Front end Technologies": {
-      "HTML": "90%",
+  "Front-End Technologies": {
+      "HTML": "95%",
       "CSS": "85%",
-      "Tailwind": "70%",
-      "Bootstrap": "70%",
-      "JavaScript": "80%",
-      "React": "60%"
+      "Bootstrap": "90%",
+      "Tailwind": "35%",
+      "React": "40%"
   },
-  "Back end Technologies": {
-    "PHP": "65%",
-    "Laravel": "80%",
-    "Django": "60%",
-    "MySQL": "80%",
-    "Node.js": "45%"
+  "Back-End Technologies": {
+      "Laravel": "70%",
+      "Node.js": "30%",
+      "MySQL": "50%",
+      "MongoDB": "30%"
   },
   "Programming Languages": {
-      "JavaScript": "90%",
-      "Python": "85%",
-      "PHP": "65%",
+      "JavaScript": "60%",
+      "PHP": "60%",
       "Java": "50%",
-      "C++": "65%"
+      "C++": "70%"
   },
-  "Other Experiences": {
-      "Chrome Extension": "80%",
-      "Problem Solving": "75%",
-      "English": "80%",
-      "Version Controll": "65%"
+  "UI/UX Technologies": {
+      "Figma": "70%",
+      "Canva": "80%"
   }
 }
