@@ -26,19 +26,21 @@
     }
   },
   "Full Stack Dev": {
-    "truthwisper": {
-      "name": "Anonymous Feedback Application",
-      "description": "It is an application to know about yourself from other without seeing their information. In other word you can say anything about others but they can not see your information.",
-      "link_to_view": "https://truthwhisper.000webhostapp.com/index.php",
-      "link_to_repo": "https://github.com/mahadirazib/truthwhisper",
-      "images": ["project1.png", "project1.png", "project1.png"]
+    "laptop": {
+      "name": "Laporan Terintegrasi Online Platform (LAPTOP)",
+      "description": "LAPTOP is an innovative solution to make it easier to report damaged or missing facilities. We are committed to helping the campus community and institutions in maintaining and caring for public facilities.",
+      "link_to_view": "https://laptop.septianhadinugroho.com",
+      "link_to_repo": "https://github.com/septianhadinugroho/laptop",
+      "images": ["laptop1.png", "laptop2.png", "laptop3.png"],
+      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery", "PHP", "Laravel", "MySQL"]
     },
-    "erpstarup": {
-      "name": "Dummy Erp For Startup",
-      "description": "This is a replica of erp that can be used in startup companies. Although it has limited features but it can be used for little teams. The main id and password is: 'bigboss' which is the admin/head account. But there are other roles such as employee, modarator, etc.",
-      "link_to_view": "http://mahadirazib.pythonanywhere.com",
-      "link_to_repo": "https://github.com/mahadirazib/videostreammingsite",
-      "images": ["erpstarup1.jpg", "erpstarup2.jpg", "erpstarup3.jpg"]
+    "notes": {
+      "name": "Notes App",
+      "description": "Full Stack Notes App using MERN (MongoDB, Express, React JS, Node JS). Our Notes App contains functionalities like Authentication (Login & Sign Up), Adding/Edit Notes, Pin important notes to the top, and searching through the notes.",
+      "link_to_view": "https://notes-app-mu-virid.vercel.app/",
+      "link_to_repo": "https://github.com/septianhadinugroho/notes-app",
+      "images": ["notes1.png", "notes2.png", "notes3.png"],
+      "technologies": ["HTML", "CSS", "JavaScript", "React", "Vite", "TailwindCSS", "NodeJS", "ExpressJS", "MongoDB"]
     },
     "vidtream": {
       "name": "Video Streaming site",

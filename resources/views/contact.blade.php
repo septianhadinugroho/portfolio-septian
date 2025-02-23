@@ -9,12 +9,11 @@
         <h1 class="text-2xl font-bold text-white pb-4">Contact Me:</h1>
         
         <div class="max-w-screen-md w-100">
-          {{-- <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">Contact Me:</h2> --}}
           <form action="{{ route('contact.submit') }}" method="POST" class="space-y-6 mt-2 w-100">
             @csrf
             <div class="grow-from-0 ">
                 <label for="email" class="block mb-1 text-sm font-medium text-gray-300">Your email</label>
-                <input type="email" id="email" class="w-full p-1 placeholder:text-slate-700" name="email" placeholder="mahadirzb@gmail.com" required>
+                <input type="email" id="email" class="w-full p-1 placeholder:text-slate-700" name="email" placeholder="example@gmail.com" required>
             </div>
             <div class="grow-from-0 ">
                 <label for="subject" class="block mb-1 text-sm font-medium text-gray-300">Subject</label>
@@ -49,19 +48,14 @@
     background-color: transparent;
     border: 1px solid;
   }
+  
   button{
     transition: background-color 0.5s ease;
   }
 
-
-
-
-
-
   .grow-from-0{
     animation: grow-animation 1.5s cubic-bezier(0.84, 0.03, 0.15, 1.36);
   }
-
 
   @keyframes grow-animation {
     0%   {
