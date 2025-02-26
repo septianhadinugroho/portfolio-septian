@@ -70,7 +70,6 @@
 
       </div>
 
-    
     </div>
   </div>
 </div>
@@ -160,8 +159,6 @@
 
 </style>
 
-
-
 <script>
   
   function makeVisible(ele){
@@ -173,7 +170,6 @@
     }, 100);
 
   }
-
 
   let elements = document.querySelectorAll('.full-image-canvas');
   elements.forEach(ele => {

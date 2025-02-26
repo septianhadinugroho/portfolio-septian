@@ -23,6 +23,22 @@
       "link_to_repo": "https://github.com/septianhadinugroho/catatan-belanja-react",
       "images": ["catatanbelanja1.png", "catatanbelanja2.png"],
       "technologies": ["HTML", "CSS", "JavaScript", "React", "Vite"]
+    },
+    "organify": {
+      "name": "Organify",
+      "description": "Organify is a powerful to-do list app designed to help you manage your daily tasks in a more organized and efficient manner. With its user-friendly interface and comprehensive features, organify is the best solution to boost your productivity.",
+      "link_to_view": "https://www.figma.com/proto/V20ubT1ZkGwase8hBwzLmu/To-Do-List-App?page-id=0%3A1&node-id=1-2&p=f&viewport=141%2C79%2C0.21&t=tGwueMpOGGZF0iys-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2&show-proto-sidebar=1",
+      "link_to_repo": null,
+      "images": ["organify1.png", "organify2.png", "organify3.png"],
+      "technologies": ["Figma"]
+    },
+    "tts": {
+      "name": "Teka-Teki Silang",
+      "description": "Web-based crossword game with interactive features, score system, game controls, dark mode, and responsiveness.",
+      "link_to_view": "https://tugas-uts.septianhadinugroho.com/",
+      "link_to_repo": "https://github.com/septianhadinugroho/tts-septian",
+      "images": ["tts1.png", "tts2.png"],
+      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"]
     }
   },
   "Full Stack Dev": {
@@ -41,59 +57,6 @@
       "link_to_repo": "https://github.com/septianhadinugroho/notes-app",
       "images": ["notes1.png", "notes2.png", "notes3.png"],
       "technologies": ["HTML", "CSS", "JavaScript", "React", "Vite", "TailwindCSS", "NodeJS", "ExpressJS", "MongoDB"]
-    },
-    "vidtream": {
-      "name": "Video Streaming site",
-      "description": "This is a video streaming site built with django. You can create your account and then publish your video.",
-      "link_to_view": null,
-      "link_to_repo": "https://github.com/mahadirazib/videostreammingsite",
-      "images": ["vidtream1.jpg", "vidtream2.jpg", "vidtream3.jpg"]
-    }
-  },
-  "Simple Games": {
-    "tiktaktoegame": {
-      "name": "Tic tac toe Game",
-      "description": "This game is developed using react.js. This is not a full stack app, so player have to play in the same device. But, it can extend to fullstack.",
-      "link_to_view": "https://mahadirazib.github.io/TikTakToe/",
-      "link_to_repo": "https://github.com/mahadirazib/TikTakToe",
-      "images": ["tiktaktoegame1.jpg", "tiktaktoegame2.jpg"]
-    },
-    "numbergame": {
-      "name": "Number Guesser Game",
-      "description": "This game is developed using vanila js. This is not a full stack app.",
-      "link_to_view": "https://mahadirazib.github.io/numberGuesserGame/",
-      "link_to_repo": "https://github.com/mahadirazib/numberGuesserGame",
-      "images": ["numbergame1.jpg", "numbergame2.jpg"]
-    },
-    "dicegame": {
-      "name": "Dice Game",
-      "description": "It is simple game to play between friends. it can be extended to a fullstack application where two friends can play this game live togather.",
-      "link_to_view": "https://mahadirazib.github.io/diceGame/",
-      "link_to_repo": "https://github.com/mahadirazib/diceGame",
-      "images": ["dicegame1.jpg", "dicegame2.jpg"]
-    }
-  },
-  "Other Projects": {
-    "browserextension": {
-      "name": "Browser Extension For Freepik",
-      "description": "This browser extension is used by designer's who are selling their products in freepik. It is created with javascript and.",
-      "link_to_view": "https://microsoftedge.microsoft.com/addons/detail/freepik-indivisual-downlo/hjliaacbafimmjfjckoakdincebbiphf",
-      "link_to_repo": null,
-      "images": ["browserextension1.jpg"]
-    },
-    "bulkwatermark": {
-      "name": "Bulk watermark images",
-      "description": "Select the watermark/logo > chose the position > select the folder that contains the images. that's it.This app is created with python.",
-      "link_to_view": null,
-      "link_to_repo": "https://github.com/mahadirazib/easy-watermark",
-      "images": ["bulkwatermark1.jpg", "bulkwatermark2.jpg", "bulkwatermark3.jpg"]
-    },
-    "shopmanagement": {
-      "name": "Shop Management Demo",
-      "description": "This is a simple project build with java. It it a top level overview of a shop management system.",
-      "link_to_view": null,
-      "link_to_repo": "https://github.com/mahadirazib/ShopManagementDemo",
-      "images": null
     }
   }
 }
