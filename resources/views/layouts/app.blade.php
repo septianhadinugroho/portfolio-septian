@@ -5,7 +5,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>{{ config('app.name', 'Laravel') }}</title>
+        <title>{{ config('app.name') }}</title>
+
+        <link rel="icon" type="image/x-icon" href="{{ asset('storage/icons/septian.ico') }}?v={{ time() }}">
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -44,7 +46,7 @@
             </div>
 
             <!-- Main Content Area -->
-            <div class="lg:w-4/5 w-full h-screen bg-cover overflow-x-auto" style="background-image: url('{{ asset('storage/images/sparkle.png') }}');">
+            <div class="lg:w-4/5 w-full h-screen bg-cover overflow-x-auto">
                 @yield('content')
             </div>
             
@@ -62,7 +64,6 @@
                     sidebar.classList.add('-translate-x-full');
                 }
             }
-
 
             function toggleSidebar() {
                 var sidebar = document.getElementById('mobile-sidebar');

@@ -39,6 +39,14 @@
       "link_to_repo": "https://github.com/septianhadinugroho/tts-septian",
       "images": ["tts1.png", "tts2.png"],
       "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"]
+    },
+    "tictactoe": {
+      "name": "Tic Tac Toe",
+      "description": "Simple web-based tic tac toe game with time travel feature and responsiveness.",
+      "link_to_view": "https://tictactoe-react-lime.vercel.app/",
+      "link_to_repo": "https://github.com/septianhadinugroho/tictactoe-react",
+      "images": ["tictactoe1.png", "tictactoe2.png"],
+      "technologies": ["HTML", "CSS", "JavaScript", "React", "Vite"]
     }
   },
   "Full Stack Dev": {

@@ -1,3 +1,3 @@
 <div>
-  &copy; All right reserved. 2024
+  &copy; All right reserved. 2025
 </div>

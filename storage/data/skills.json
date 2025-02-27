@@ -1,25 +1,24 @@
 {
   "Front-End Technologies": {
       "HTML": "95%",
-      "CSS": "85%",
+      "CSS": "90%",
       "Bootstrap": "90%",
-      "Tailwind": "35%",
-      "React": "40%"
+      "Tailwind": "30%",
+      "React": "30%"
   },
   "Back-End Technologies": {
-      "Laravel": "70%",
+      "Laravel": "60%",
       "Node.js": "30%",
       "MySQL": "50%",
       "MongoDB": "30%"
   },
   "Programming Languages": {
-      "JavaScript": "60%",
+      "JavaScript": "50%",
       "PHP": "60%",
-      "Java": "50%",
-      "C++": "60%"
+      "C++": "50%"
   },
   "UI/UX Technologies": {
-      "Figma": "70%",
+      "Figma": "60%",
       "Canva": "80%"
   }
 }
