@@ -47,6 +47,14 @@
       "link_to_repo": "https://github.com/septianhadinugroho/tictactoe-react",
       "images": ["tictactoe1.png", "tictactoe2.png"],
       "technologies": ["HTML", "CSS", "JavaScript", "React", "Vite"]
+    },
+    "geoar": {
+      "name": "Geometry AR (GeoAR)",
+      "description": "GeoAR is a mobile application to help learning geometry or building space at the Junior High School level in an interesting way with the help of AR or Augmented Reality technology.",
+      "link_to_view": "https://www.figma.com/proto/xHp127v232U3kY7H77kTTC/UI-IMK?page-id=0%3A1&node-id=28-186&p=f&viewport=99%2C207%2C0.34&t=VRJVy3BbKZfNUFy6-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2",
+      "link_to_repo": null,
+      "images": ["geoar1.png", "geoar2.png", "geoar3.png"],
+      "technologies": ["Figma"]
     }
   },
   "Full Stack Dev": {
